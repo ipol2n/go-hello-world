@@ -15,4 +15,5 @@ func main() {
 	fmt.Println("dasasfasdf")
 	fmt.Println(gotools.Add(1, 2))
 	fmt.Println(stringhelper.Upper("asdfafd"))
+	fmt.Println(stringhelper.Concat("Hello", "Mr.", "Kittiporn"))
 }
